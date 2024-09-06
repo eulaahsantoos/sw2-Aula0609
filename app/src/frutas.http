@@ -1,0 +1,6 @@
+@url = https://8080-eulaahsanto-sw2aula0609-3a6srcvczd0.ws-us116.gitpod.io
+###
+GET {{url}}/frutas
+
+###
+GET {{url}}/frutas/2
